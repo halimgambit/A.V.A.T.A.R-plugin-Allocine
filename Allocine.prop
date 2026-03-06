@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"Allocine": {
+			"version": "1.0",
+			"name": "allocine",
+			"numSalle": "B0114",
+			"rules": {
+				"getMovie": ["allocine","cinema"]
+			}
+		}
+	}
+}
+			
