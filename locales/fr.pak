@@ -1,0 +1,15 @@
+  {
+    "speech": {
+    "numbrSalle": "Le numéro de salle n'est pas renseigné.",
+    "films": "Voici les films actuellement à l'affiche: $$.",
+    "clean": "Pour quel film veux-tu connaître les séances ?",
+    "noFilm": "Je n'ai pas trouvé le film $$. Voici quelques films actuellement à l'affiche : $$.",
+    "noSeance": "Je n'ai trouvé aucune séance aujourd'hui pour $$",
+    "horaire": "$$ passe à $$.",
+    "wichMovie": "Pour quel film ?",
+    "noFound": "Je n'ai pas trouvé le film $$.",
+    "noShow": "Il n'y a plus de séance aujourd'hui pour $$.",
+    "nextSeance": "La prochaine séance de $$ est à $$.",
+    "errorAccess": "Je n'arrive pas à récupérer les informations du cinéma."
+  }
+}
