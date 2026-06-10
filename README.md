@@ -8,7 +8,7 @@ Commandes :
 
 il y'a quoi au cinema, les films à l'affiche,
 les horaires de Matrix,
-quels la séance de bob l'éponge
+quels est la séance de bob l'éponge
 
 https://www.allocine.fr/seance/salle_gen_csalle=C0146.html#shwt_date=2026-06-10
 
