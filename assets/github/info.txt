@@ -1,3 +1,0 @@
-Allociné transforme A.V.A.T.A.R en véritable assistant cinéma.
-
-Découvrez les films actuellement à l'affiche, consultez les horaires des séances et trouvez instantanément la prochaine projection d'un film grâce à de simples commandes vocales. Le plugin prend en charge la recherche par titre complet ou partiel et s'adapte aux erreurs courantes de reconnaissance vocale.
