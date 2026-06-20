@@ -16,7 +16,7 @@ export async function action(data, callback) {
       getNextHour: () => getFilms("nextHour", data, data.client, L)
 		}
 		
-		info("Allocine:", data.action.command, "plugin.from", data.client);
+		info("Allocine:", data.action.command, "from", data.client);
 			
 		if (tblActions[data.action.command]) {
 			await tblActions[data.action.command]();
