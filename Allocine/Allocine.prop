@@ -7,7 +7,7 @@
 			"lengthMovies": 8,
 			"rules": {
 				"getMovie": ["allociné","cinema"],
-				"getHours": ["schedule","schedules","showtimes"],
+				"getHours": ["what * are * hours", "schedule","schedules","showtimes"],
 				"getNextHour":["session","sessions"]
 			}
 		}
