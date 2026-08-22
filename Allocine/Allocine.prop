@@ -6,9 +6,9 @@
 			"numSalle": "B0114",
 			"lengthMovies": 8,
 			"rules": {
-				"getMovie": ["moviefone","allociné","cinema","films * showing"],
-				"getHours": ["hours","schedule","schedules","showtimes"],
-				"getNextHour": ["when * next","when","next","session","sessions"]
+				"getMovie": ["allociné","cinema"],
+				"getHours": ["schedule","schedules","showtimes"],
+				"getNextHour":["session","sessions"]
 			}
 		}
 	}
